@@ -1,0 +1,16 @@
+[CHEKPOINTS]
+DATA_DIR = ../DATASETS/stenosis_data
+WEIGHTS_DIR = weights
+RESULTS_DIR = results
+
+[MODEL]
+MODEL_NAME = 2_2Q_4RB_FT
+N_RESBLOCKS = 4
+PRETRAINED = True
+
+[QUANTUM]
+QUANTUM = True
+L2_NORM = False
+N_QBITS = 2
+N_VQC = 2
+Q_DEPTH = 1
