@@ -1,7 +1,8 @@
 # Hybrid Classical-Quantum Convolutional Neural Network for Stenosis Detection in X-ray Coronary Angiography
 ----------
 
-This repository hosts Python code for Hybrid Classical-Quantum Network (H-CQN). Our paper submitted to *Expert Systems With Applications* on 04 of July 2021. 
+This repository hosts Python code for the paper **Hybrid Classical-Quantum Convolutional Neural Network for Stenosis Detection in X-ray Coronary Angiography**, published at [Expert Systems With Applications](https://doi.org/10.1016/j.eswa.2021.116112) on 28 October 2021. 
+
 ----------
 
 <img src="figures/graphical_abstract.png" width="600">
@@ -42,4 +43,26 @@ These are the dependencies to use H-CQN:
 
 ## Cite
 ----------
+If you use this for research, please cite. Here is an example BibTeX entry:
+
+```
+@article{ovalle2021hybrid,
+title = {{Hybrid classical-quantum convolutional neural network for stenosis detection in X-ray coronary angiography}},
+author = {Emmanuel Ovalle-Magallanes and Juan Gabriel Avina-Cervantes and Ivan Cruz-Aceves and Jose Ruiz-Pinales},
+journal = {Expert Systems with Applications},
+pages = {116112},
+year = {2021},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2021.116112},
+}
+```
+----------
+## Development
+
+Want to contribute? Great!. Contact us.
+
+Follow our research work at: 
+* [Personal Page](https://emmanuelovalle.netlify.app/)
+* [Researchgate](https://www.researchgate.net/profile/Emmanuel-Ovalle-Magallanes)
+* [Google Academic](https://scholar.google.com/citations?user=zql1lk8AAAAJ&hl=es#)
 
